@@ -5,4 +5,15 @@
 #links{
   text-align:center;
   border: 1px solid black;
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+.topnav a.active {
+  border-bottom: 3px solid red;
 }
