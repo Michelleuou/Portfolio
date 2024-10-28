@@ -5,7 +5,7 @@
 
 .topnav {
   overflow: hidden;
-  background-color: #f1f1f1;
+  background-color: #cfeaff;
   text-align: center;
 }
 
@@ -16,14 +16,16 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
   border-bottom: 3px solid transparent;
 }
 
 .topnav a:hover {
   border-bottom: 3px solid black;
+  text-align: center;
 }
 
 .topnav a.active {
   border-bottom: 3px solid black;
+  text-align: center;
 }
