@@ -4,32 +4,34 @@
 }
 
 .navbar {
-  width: 50%;
-  background-color: #dbf2ff;
+  width: 100%;
+  background-color: #d4f1ff;
   overflow: auto;
 }
 
 .navbar a {
   float: left;
-  padding: 20px;
+  padding: 12px;
   color: black;
   text-decoration: none;
-  font-size: 20px;
-  width: 5%;
+  font-size: 17px;
+  width: 15%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
   text-align: center;
 }
 
 .navbar a:hover {
-  background-color: #6f91c7;
+  background-color: #71a6bf;
 }
 
 .navbar a.active {
-  background-color: #6f91c7;
+  background-color: #71a6bf;
 }
+
+@media screen and (max-width: 500px) {
   .navbar a {
     float: none;
     display: block;
-    width: 50%;
+    width: 100%;
     text-align: left;
   }
 }
