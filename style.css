@@ -4,7 +4,7 @@
 }
 
 .navbar {
-  width: 100%;
+  width: 50%;
   background-color: #dbf2ff;
   overflow: auto;
 }
@@ -29,7 +29,7 @@
   .navbar a {
     float: none;
     display: block;
-    width: 100%;
+    width: 50%;
     text-align: left;
   }
 }
