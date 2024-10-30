@@ -36,15 +36,7 @@
     text-align: left;
   }
 }
-.row{
-  display: inline;
-  flex-direction: column;
-  justify-content: center;
-  flex-wrap: wrap;
-  width: 33.33%;
-  text-align:center;
 
-}
 
 #corner1 {
   display: inline-flex;
