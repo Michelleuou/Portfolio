@@ -45,7 +45,8 @@
 }
 .row{
   display: inline-flex;
-    flex-direction: column;
+  flex-direction: column;
+  justify-content: center;
 
 }
 
