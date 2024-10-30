@@ -41,8 +41,7 @@
   width: 200;
   height: 300px;
   display: block;
-  margin-left: auto;
-  object-position: right top;
+  object-position: right center;
 }
 .container{
   display: grid;
