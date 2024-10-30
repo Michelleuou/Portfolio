@@ -45,6 +45,7 @@
   padding: 60px;
   width: 450px;
   height: 400px;
+  text-align: center;
 }
 #corner2 {
   display: inline-flex;
@@ -53,6 +54,7 @@
   padding: 60px;
   width: 450px;
   height: 400px;
+  text-align:center;
 }
 #corner3 {
   display: inline-flex;
