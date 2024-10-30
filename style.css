@@ -45,6 +45,7 @@
 }
 
 #corner1 {
+  display: inline-flex;
   border-radius: 25px;
   background: #71a6bf;
   padding: 20px;
@@ -53,6 +54,7 @@
   text-align: center;
 }
 #corner2 {
+  display: inline-flex;
   border-radius: 25px;
   background: #71a6bf;
   padding: 20px;
@@ -61,6 +63,7 @@
   text-align: center;
 }
 #corner3 {
+  display: inline-flex;
   border-radius: 25px;
   background: #71a6bf;
   padding: 20px;
