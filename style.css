@@ -45,7 +45,7 @@
 }
 #corner1 {
   border-radius: 25px;
-  background: #73AD21;
+  background: #71a6bf;
   background-position: left center; 
   padding: 20px;
   width: 600px;
@@ -53,7 +53,7 @@
 }
 #corner2 {
   border-radius: 25px;
-  background: #73AD21;
+  background: #71a6bf;
   background-position: center center; 
   padding: 20px;
   width: 600px;
@@ -61,7 +61,7 @@
 }
 #corner3 {
   border-radius: 25px;
-  background: #73AD21;
+  background: #71a6bf;
   background-position: right center; 
   padding: 20px;
   width: 600px;
