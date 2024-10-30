@@ -43,16 +43,10 @@
   display: block;
   object-position: right center;
 }
-.container{
-  display: grid;
-  grid-templete-columns: 1fr 1fr 1fr;
-  grid-gap: 10px;
-}
-  
+
 #corner1 {
   border-radius: 25px;
   background: #71a6bf;
-  object-position: left center; 
   padding: 20px;
   width: 200px;
   height: 350px;
@@ -61,18 +55,16 @@
 #corner2 {
   border-radius: 25px;
   background: #71a6bf;
-  object-position: center center; 
   padding: 20px;
-  width: 200px;
+  width: 300px;
   height: 350px;
   text-align: center;
 }
 #corner3 {
   border-radius: 25px;
   background: #71a6bf;
-  object-position: right center; 
   padding: 20px;
-  width: 200px;
+  width: 300px;
   height: 350px;
   text-align: center;
 }
