@@ -44,6 +44,12 @@
   margin-left: auto;
   object-position: right top;
 }
+.container{
+  display: grid;
+  grid-templete-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
+  
 #corner1 {
   border-radius: 25px;
   background: #71a6bf;
