@@ -54,6 +54,7 @@
   text-align: center;
 }
 #corner2 {
+  margin-left: 100px;
   display: inline-flex;
   border-radius: 25px;
   background: #71a6bf;
@@ -63,6 +64,7 @@
   text-align: center;
 }
 #corner3 {
+  margin-left: 300px;
   display: inline-flex;
   border-radius: 25px;
   background: #71a6bf;
