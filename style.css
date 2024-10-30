@@ -41,7 +41,7 @@
   width: 200;
   height: 300px;
   display: block;
-  object-position: right center;
+  object-position: right bottom;
 }
 
 #corner1 {
