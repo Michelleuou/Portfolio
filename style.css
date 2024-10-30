@@ -36,13 +36,6 @@
     text-align: left;
   }
 }
-#me{
-  border-radius: 8px;
-  width: 200;
-  height: 300px;
-  display: block;
-  object-position: right bottom;
-}
 .row{
   display: inline-flex;
   flex-direction: column;
