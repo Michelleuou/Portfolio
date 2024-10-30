@@ -50,6 +50,7 @@
   padding: 20px;
   width: 600px;
   height: 350px;
+  text-align: center;
 }
 #corner2 {
   border-radius: 25px;
@@ -58,6 +59,7 @@
   padding: 20px;
   width: 600px;
   height: 350px;
+  text-align: center;
 }
 #corner3 {
   border-radius: 25px;
@@ -66,4 +68,5 @@
   padding: 20px;
   width: 600px;
   height: 350px;
+  text-align: center;
 }
