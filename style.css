@@ -43,6 +43,12 @@
   display: block;
   object-position: right bottom;
 }
+.row{
+  display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}
 
 #corner1 {
   display: inline;
