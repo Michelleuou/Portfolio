@@ -42,18 +42,18 @@
   justify-content: center;
   flex-wrap: wrap;
    width: 33.33%;
-  padding: 20px;
+  padding: 60px;
+    float:left;
 
 }
 
 #corner1 {
-  float:left;
   display: inline-flex;
   border-radius: 25px;
   background: #71a6bf;
   padding: 20px;
-  width: 250px;
-  height: 200px;
+  width: 450px;
+  height: 400px;
   text-align: center;
 }
 #corner2 {
@@ -61,18 +61,17 @@
   border-radius: 25px;
   background: #71a6bf;
   padding: 20px;
-  width: 250px;
-  height: 200px;
+  width: 450px;
+  height: 400px;
   text-align: center;
 }
 #corner3 {
-  float:right;
   display: inline-flex;
   border-radius: 25px;
   background: #71a6bf;
   padding: 20px;
-  width: 250px;
-  height: 200px;
+  width: 450px;
+  height: 400px;
   text-align: center;
 }
 
