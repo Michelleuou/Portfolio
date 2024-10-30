@@ -48,22 +48,22 @@
   background: #73AD21;
   background-position: left center; 
   padding: 20px;
-  width: 200px;
-  height: 150px;
+  width: 600px;
+  height: 350px;
 }
 #corner2 {
   border-radius: 25px;
   background: #73AD21;
   background-position: center center; 
   padding: 20px;
-  width: 200px;
-  height: 150px;
+  width: 600px;
+  height: 350px;
 }
 #corner3 {
   border-radius: 25px;
   background: #73AD21;
   background-position: right center; 
   padding: 20px;
-  width: 200px;
-  height: 150px;
+  width: 600px;
+  height: 350px;
 }
