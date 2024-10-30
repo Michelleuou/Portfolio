@@ -47,11 +47,11 @@
   display: inline-flex;
   flex-direction: column;
   justify-content: center;
+   flex-wrap: wrap;
 
 }
 
 #corner1 {
-  display: inline;
   border-radius: 25px;
   background: #71a6bf;
   padding: 20px;
@@ -60,7 +60,6 @@
   text-align: center;
 }
 #corner2 {
-  display: inline;
   border-radius: 25px;
   background: #71a6bf;
   padding: 20px;
@@ -69,7 +68,6 @@
   text-align: center;
 }
 #corner3 {
-  display: inline;
   border-radius: 25px;
   background: #71a6bf;
   padding: 20px;
