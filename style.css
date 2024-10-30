@@ -45,7 +45,7 @@
 }
 
 #corner1 {
-  display: block;
+  display: inline;
   clear:left;
   float: left;
   border-radius: 25px;
@@ -56,7 +56,7 @@
   text-align: center;
 }
 #corner2 {
-  display: block;
+  display: inline;
   clear:left;
   float: left;
   border-radius: 25px;
@@ -67,7 +67,7 @@
   text-align: center;
 }
 #corner3 {
-  display: block;
+  display: inline;
   clear:left;
   float: left;
   border-radius: 25px;
