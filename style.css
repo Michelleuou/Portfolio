@@ -41,8 +41,7 @@
   flex-direction: column;
   justify-content: center;
   flex-wrap: wrap;
-   width: 33.33%;
-  padding: 60px;
+  width: 33.33%;
   align:center;
 
 }
@@ -51,7 +50,7 @@
   display: inline-flex;
   border-radius: 25px;
   background: #71a6bf;
-  padding: 20px;
+  padding: 60px;
   width: 450px;
   height: 400px;
   text-align: center;
@@ -60,7 +59,7 @@
   display: inline-flex;
   border-radius: 25px;
   background: #71a6bf;
-  padding: 20px;
+  padding: 60px;
   width: 450px;
   height: 400px;
   text-align: center;
@@ -69,7 +68,7 @@
   display: inline-flex;
   border-radius: 25px;
   background: #71a6bf;
-  padding: 20px;
+  padding: 60px;
   width: 450px;
   height: 400px;
   text-align: center;
