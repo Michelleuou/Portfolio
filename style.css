@@ -42,6 +42,7 @@
   height: 300px;
   display: block;
   margin-left: auto;
+  object-position: right top;
 }
 #corner1 {
   border-radius: 25px;
