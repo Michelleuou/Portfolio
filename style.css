@@ -47,7 +47,7 @@
 #corner1 {
   border-radius: 25px;
   background: #71a6bf;
-  background-position: left center; 
+  object-position: left center; 
   padding: 20px;
   width: 600px;
   height: 350px;
@@ -56,7 +56,7 @@
 #corner2 {
   border-radius: 25px;
   background: #71a6bf;
-  background-position: center center; 
+  object-position: center center; 
   padding: 20px;
   width: 600px;
   height: 350px;
@@ -65,7 +65,7 @@
 #corner3 {
   border-radius: 25px;
   background: #71a6bf;
-  background-position: right center; 
+  object-position: right center; 
   padding: 20px;
   width: 600px;
   height: 350px;
