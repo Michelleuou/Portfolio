@@ -19,10 +19,9 @@
 }
 h1{
   font-size: 20px;
-   font-family: Verdana;
+  font-family: Verdana;
 }
 
-/* Change background on mouse-over */
 .navbar a:hover {
   background: #7da1ba;
   color: black;
@@ -30,7 +29,7 @@ h1{
 
 /* Main content */
 .main {
-  margin-top: 30px; /* Add a top margin to avoid content overlay */
+margin-top: 20px; /* Add a top margin to avoid content overlay */
 }
 .navbar h1{
   padding-right: 20px;
