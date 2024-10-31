@@ -42,5 +42,10 @@ img{
   margin: auto;
 }
 
+.navbar a.active {
+  background-color: #7da1ba;
+  color: white;
+}
+
 
 
