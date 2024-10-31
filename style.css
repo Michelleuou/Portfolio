@@ -50,8 +50,8 @@ margin-top: 90px;
 
 .image {
   display: inline;
-  width: 95px;
-  height: 95px;
+  width: 100%;
+  height: auto;
 }
 
 .overlay {
