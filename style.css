@@ -37,6 +37,10 @@ margin-top: 90px;
   padding-right: 30px;
   float: right;
 }
+img{
+  display:block;
+  margin: auto;
+}
 
 
 
