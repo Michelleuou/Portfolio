@@ -38,8 +38,9 @@ margin-top: 90px;
   float: right;
 }
 img{
-  display: Inline;
+  display: Inline-block;
   margin: auto;
+  margin-property: 10px;
 }
 
 .navbar a.active {
