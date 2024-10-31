@@ -49,8 +49,8 @@ margin-top: 90px;
 }
 
 .image {
-  display: block;
-  width: 100px;
+  display: inline;
+  width: 95px;
   height: 95px;
 }
 
