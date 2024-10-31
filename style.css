@@ -3,9 +3,8 @@
 .navbar {
   overflow: hidden;
   background-color: #d1ecff;
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
+  top: 0; 
+  width: 100%; 
 }
 
 /* Links inside the navbar */
@@ -14,12 +13,12 @@
   display: block;
   color: black;
   text-align: center;
-  padding: 14px 16px;
+  padding: 17px 100px;
   text-decoration: none;
 }
 h1{
   font-size: 20px;
-  font-family: Verdana;
+  font-family: Garamond;
 }
 
 .navbar a:hover {
@@ -29,9 +28,10 @@ h1{
 
 /* Main content */
 .main {
-margin-top: 20px; /* Add a top margin to avoid content overlay */
+margin-top: 20px; 
 }
+
 .navbar h1{
-  padding-right: 20px;
+  padding-right: 30px;
   float: right;
 }
