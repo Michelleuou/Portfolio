@@ -37,15 +37,15 @@ margin-top: 90px;
   padding-right: 30px;
   float: right;
 }
-img{
-  display: inline-block;
-  margin: auto;
-}
-
 .navbar a.active {
   background-color: #7da1ba;
   color: white;
 }
+img{
+  display: inline;
+  margin: auto;
+}
+
 
 
 
