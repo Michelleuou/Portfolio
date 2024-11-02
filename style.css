@@ -42,7 +42,7 @@ margin-top: 90px;
   color: white;
 }
 img{
-  display: inline-block;
+  display: inherit;
   margin: auto;
 }
 
