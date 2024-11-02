@@ -56,7 +56,7 @@ margin-top: 90px;
 .row::after {
   content: "";
   clear: both;
-  display: table;
+  display: inline;
 }
 
 
