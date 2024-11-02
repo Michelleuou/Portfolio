@@ -41,9 +41,13 @@ margin-top: 90px;
   background-color: #7da1ba;
   color: white;
 }
-img{
-  display: inherit;
+.img1{
+  display: block;
   margin: auto;
+}
+.img2{
+  display: inline;
+  margin:auto;
 }
 
 
