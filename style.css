@@ -42,12 +42,11 @@ margin-top: 90px;
   color: white;
 }
 .img1{
-  padding: 12px 100px;
-  display: inline-block;
+  display: inline;
   margin: auto;
 }
 .img2{
-  padding: 12px 100px;
+  left: 70px;
   display: inline-block;
   margin:auto;
 }
