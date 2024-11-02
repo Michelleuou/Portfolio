@@ -43,7 +43,7 @@ margin-top: 90px;
 }
 .img1{
   padding: 12px 100px;
-  display: block;
+  display: inline-block;
   margin: auto;
 }
 .img2{
