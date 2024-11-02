@@ -42,11 +42,15 @@ margin-top: 90px;
   color: white;
 }
 .img1{
-  right: 70px;
+  display: inline;
+  padding: 10px;
+  left: 70px;
   margin: auto;
 }
 .img2{
-  left: 70px;
+  display: inline;
+  padding: 10px
+  right: 70px;
   margin:auto;
 }
 .meimg{
