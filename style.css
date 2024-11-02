@@ -42,7 +42,7 @@ margin-top: 90px;
   color: white;
 }
 img{
-  display: block;
+  display: inline-block;
   margin: auto;
 }
 #meimage{
