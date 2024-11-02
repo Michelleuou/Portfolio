@@ -49,8 +49,8 @@ margin-top: 90px;
 
 .column {
   float: left;
-  width: 10%;
-  padding: 5px;
+  width: 50%;
+  padding: 20px;
 }
 
 .row::after {
