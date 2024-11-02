@@ -42,12 +42,11 @@ margin-top: 90px;
   color: white;
 }
 .img1{
-  display: inline;
+  display: inline-block;
   margin: auto;
 }
 .img2{
   left: 70px;
-  display: inline-block;
   margin:auto;
 }
 .meimg{
