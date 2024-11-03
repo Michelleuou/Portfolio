@@ -76,6 +76,6 @@ text-decoration: underline;
 .right { 
     background-color: #d1ecff;
     float: right;
-    width: 10%;
-    height: 100%;
+    width: 20%;
+    height: 500px;
 }
