@@ -71,3 +71,17 @@ text-decoration: underline;
   text-align: center;
     display: block;
 }
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.right {
+  background-color: #d1ecff;
+  position: absolute; 
+  height: 100%;
+  width:100%; 
+  top: 0px;
+  right: -100%;  
+}
