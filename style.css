@@ -72,16 +72,9 @@ text-decoration: underline;
     display: block;
 }
 
-.container {
-  width: 1000px;
-  margin: 0 auto;
-}
 
-.right {
-  background-color: #d1ecff;
-  position: absolute; 
-  height: 100%;
-  width:100%; 
-  top: 0px;
-  right: -100%;  
+.right { 
+    background-color: #d1ecff;
+    float: right;
+    width: 20%;
 }
