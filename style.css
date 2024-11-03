@@ -83,8 +83,7 @@ text-decoration: underline;
 }
 .textabt{
   top: 50%;
-  display: inline;
   font-size: 20px;
-  padding-left: 700px;
+  padding-left: 500px;
   text-align:center;
 }
