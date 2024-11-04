@@ -67,7 +67,7 @@ text-decoration: underline;
     display: block;
 }
 .resume{
-   position: sticky;
+   position: relative;
     top: 70px;
     right: 10px;
 }
