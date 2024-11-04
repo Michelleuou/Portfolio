@@ -86,13 +86,12 @@ text-decoration: underline;
 .container {
  display: grid;
  align-items: center; 
- grid-template-columns: 1fr 1fr 1fr;
+ grid-template-columns: 4fr 500fr 1fr;
  column-gap: 100px;
 }
 
 img {
  width: 500px;
- 
 }
 
 .text {
