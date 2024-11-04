@@ -67,6 +67,7 @@ text-decoration: underline;
 }
 .resume{
   float:right;
+  position: absolute;
 }
 
 .container {
