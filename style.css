@@ -86,17 +86,19 @@ text-decoration: underline;
 .container {
  display: grid;
  align-items: center; 
- grid-template-columns: 3fr 200fr 1fr;
- column-gap: 70px;
+ grid-template-columns: 4fr 500fr 1fr;
+ column-gap: 100px;
 }
 
-.image {
- width: 80px;
+img {
+ width: 500px;
+ 
 }
 
 .text {
   font-size: 20px;
 }
+
 .icon{
 width: 10%;
 }
