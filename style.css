@@ -68,7 +68,7 @@ text-decoration: underline;
 }
 .resume{
    position: absolute;
-    top: 90px;
+    top: 85px;
     right: 5px;
 }
 
@@ -76,7 +76,7 @@ text-decoration: underline;
  display: grid;
  align-items: center; 
  grid-template-columns: 4fr 50fr 1fr;
- column-gap: 10px;
+ column-gap: 70px;
 }
 
 img {
