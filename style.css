@@ -87,10 +87,10 @@ text-decoration: underline;
 <!--This is the abt section -->
 
 .resume{
-   position: absolute;
+    position: absolute;
     top: 80px;
     right: 5px;
-    width: 30%;
+    width: 20%;
 }
 
 .container {
