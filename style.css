@@ -67,15 +67,15 @@ text-decoration: underline;
     display: block;
 }
 .resume{
-   position: relative;
-    top: 70px;
-    right: 90px;
+   position: absolute;
+    top: 50px;
+    right: 5px;
 }
 
 .container {
  display: grid;
  align-items: center; 
- grid-template-columns: 1fr 900fr 1fr;
+ grid-template-columns: 4fr 50fr 1fr;
  column-gap: 10px;
 }
 
