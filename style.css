@@ -76,7 +76,7 @@ text-decoration: underline;
  display: grid;
  align-items: center; 
  grid-template-columns: 4fr 50fr 1fr;
- column-gap: 70px;
+ column-gap: 100px;
 }
 
 img {
