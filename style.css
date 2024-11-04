@@ -65,15 +65,8 @@ text-decoration: underline;
   text-align: center;
     display: block;
 }
-
-
-.right { 
-    background-color: #d1ecff;
-    float: right;
-    width: 20%;
-    height: 1200px;
-    text-align: center;
-    display: block;
+.resume{
+  float:right;
 }
 
 .container {
