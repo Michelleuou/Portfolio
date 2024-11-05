@@ -97,7 +97,7 @@ text-decoration: underline;
  display: grid;
  align-items: center; 
  grid-template-columns: 1fr 200fr 1fr;
- column-gap: 100px;
+ column-gap: 400px;
 }
 
 .text {
