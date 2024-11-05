@@ -104,11 +104,14 @@ text-decoration: underline;
 .text {
   font-size: 20px;
   text-align: center;
+  width: 70%;
 }
 
 .contact{
 text-align:center;
 margin: auto;
+display: inline-block;
+vertical-align: middle;
 }
 
 <!--This is the end of abt section -->
