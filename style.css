@@ -113,7 +113,7 @@ text-decoration: underline;
   top: 0; 
   width: 100%; 
 }
-nav2{
+.nav2{
  overflow: hidden;
   background-color: #d1ecff;
   position: static;
