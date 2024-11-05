@@ -107,6 +107,11 @@ text-decoration: underline;
 
 .contact{
   text-align:center;
+   overflow: hidden;
+  background-color: #d1ecff;
+  position: static;
+  top: 0; 
+  width: 100%; 
 }
 nav2{
  overflow: hidden;
