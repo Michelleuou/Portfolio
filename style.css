@@ -98,7 +98,7 @@ text-decoration: underline;
  display: grid;
  align-items: center; 
  grid-template-columns: 1fr 1fr 1fr;
- column-gap: 400px;
+ column-gap: 90px;
 }
 
 .text {
