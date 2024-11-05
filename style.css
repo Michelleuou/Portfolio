@@ -106,11 +106,13 @@ text-decoration: underline;
 
 .contact{
   text-align:center;
-  background-color: #d1ecff;
-  position: absolute;
-  width: 100%;
-  float: left;
 }
-
+nav2{
+ overflow: hidden;
+  background-color: #d1ecff;
+  position: static;
+  top: 0; 
+  width: 100%; 
+}
 <!--This is the end of abt section -->
 
