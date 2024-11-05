@@ -78,9 +78,7 @@ text-decoration: underline;
 .center1{
   width:300px;
   height:600px;
-  justify-content: center;
-  align: center;
-  right: 30px;
+  right: 70px;
 }
 
 
@@ -102,10 +100,6 @@ text-decoration: underline;
 
 .text {
   font-size: 20px;
-}
-
-.icon{
-width: 10%;
 }
 
 <!--This is the end of abt section -->
