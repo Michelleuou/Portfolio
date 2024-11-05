@@ -88,7 +88,7 @@ text-decoration: underline;
 
 .resume{
     top: 10px;
-  right: 80px;
+  float: right;
 }
 
 .container {
