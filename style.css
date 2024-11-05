@@ -79,6 +79,10 @@ text-decoration: underline;
   width:300px;
   height:600px;
   justify-content: center;
+   display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 10px;
 }
 
 
@@ -93,7 +97,7 @@ text-decoration: underline;
 .container {
  display: grid;
  align-items: center; 
- grid-template-columns: 4fr 1fr 1fr;
+ grid-template-columns: 1fr 1fr 1fr;
  column-gap: 100px;
 }
 
