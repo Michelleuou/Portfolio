@@ -108,7 +108,8 @@ text-align:center;
   background-color: #d1ecff;
   position: static;
   top: 0; 
-  width: 100%; 
+  width: 100%;
+  display: block;
 }
 
 <!--This is the end of abt section -->
