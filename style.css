@@ -107,7 +107,7 @@ text-decoration: underline;
 .contact{
   text-align:center;
   background-color: #d1ecff;
-  position: static;
+  position: absolute;
   width: 100%;
   float: left;
 }
