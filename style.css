@@ -94,13 +94,17 @@ text-decoration: underline;
 .container {
  display: grid;
  align-items: center; 
- grid-template-columns: 1fr 100fr 1fr;
+ grid-template-columns: 1fr 50fr 1fr;
  column-gap: 100px;
 }
 
 .text {
   font-size: 20px;
   text-align: center;
+}
+
+.contact{
+text-align:center;
   float: left;
   display: block;
   color: black;
@@ -108,10 +112,6 @@ text-decoration: underline;
   padding: 19px 100px;
   text-decoration: none;
   font-size: 30px;
-}
-
-.contact{
-text-align:center;
 }
 
 <!--This is the end of abt section -->
