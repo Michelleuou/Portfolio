@@ -36,7 +36,7 @@ margin-top: 90px;
 }
 
 .navbar h1{
-  padding-right: 50px;
+  padding-right: 30px;
   float: right;
 }
 .navbar a.active {
@@ -81,7 +81,7 @@ text-decoration: underline;
   display: grid;
  align-items: center; 
  grid-template-columns: 4fr 500fr 4fr;
- column-gap: 400px;
+ column-gap: 1000px;
 }
 
 
