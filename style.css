@@ -80,8 +80,8 @@ text-decoration: underline;
   height:600px;
   display: grid;
  align-items: center; 
- grid-template-columns: 4fr 4fr 4fr;
- column-gap: 100px;
+ grid-template-columns: 4fr 500fr 4fr;
+ column-gap: 400px;
 }
 
 
@@ -97,7 +97,7 @@ text-decoration: underline;
  display: grid;
  align-items: center; 
  grid-template-columns: 1fr 1fr 1fr;
- column-gap: 50px;
+ column-gap: 100px;
 }
 
 .text {
