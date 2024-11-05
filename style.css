@@ -81,7 +81,7 @@ text-decoration: underline;
   display: grid;
  align-items: center; 
  grid-template-columns: 1fr 1fr 2fr;
- column-gap: 10px;
+ column-gap: 100px;
 }
 
 
