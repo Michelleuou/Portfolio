@@ -94,7 +94,7 @@ text-decoration: underline;
 .container {
  display: grid;
  align-items: center; 
- grid-template-columns: 3fr 1fr 1fr;
+ grid-template-columns: 1fr 30fr 1fr;
  column-gap: 100px;
 }
 
