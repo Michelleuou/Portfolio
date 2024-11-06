@@ -76,10 +76,10 @@ text-decoration: underline;
 
 .center{
   width: 50%;
-  height: 90%;
+  height: 50%;
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
   text-align: center;
   padding-right: 100px 50px; 
