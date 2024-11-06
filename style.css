@@ -87,8 +87,8 @@ text-decoration: underline;
 
 <!--This is the abt section -->
 
-.resume{
-    top: 5px;
+#resume{
+  top: 5px;
   display: block;
   margin-right: 0;
   padding-right: 0;
