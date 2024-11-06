@@ -51,8 +51,9 @@ margin-top: 90px;
 
 
 <!--This is the content section -->
-.text{
-  text-align:center;
+.textcap{
+text-align:center;
+text-font: 20px
 }
 
 .img{
@@ -109,10 +110,6 @@ text-decoration: underline;
 .para{
   font-size:15px;
 
-}
-.textcap{
-text-align:center;
-text-font: 20px
 }
 
 .contact{
