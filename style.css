@@ -110,6 +110,10 @@ text-decoration: underline;
   font-size:25px;
 
 }
+.textcap{
+
+text-font: 20px
+}
 
 .contact{
   text-align:center;
