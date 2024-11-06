@@ -81,6 +81,7 @@ text-decoration: underline;
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
+  right:30px;
 }
 
 <!--This is the end of content section -->
