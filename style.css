@@ -117,7 +117,8 @@ text-decoration: underline;
   background-color: #d1ecff;
   position: static;
   top: 0; 
-  width: 100%; 
+  width: 100%;
+  bottom: 0;
 }
 
 <!--This is the end of abt section -->
