@@ -81,7 +81,7 @@ text-decoration: underline;
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
-  right:30px;
+  right:50%;
   text-align: center;
 }
 
