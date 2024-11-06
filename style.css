@@ -99,7 +99,7 @@ text-decoration: underline;
  display: grid;
  align-items: center; 
  grid-template-columns: 1fr 1fr 1fr;
- column-gap: 80px;
+ column-gap: 100px;
 }
 
 .text {
