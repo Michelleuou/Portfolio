@@ -79,8 +79,7 @@ text-decoration: underline;
 .center1{
   width:300px;
   height:600px;
-  display: inline-block;
-  text-align: center;
+  display: block;
 }
 
 
