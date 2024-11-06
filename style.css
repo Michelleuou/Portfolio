@@ -74,15 +74,17 @@ text-decoration: underline;
 }
 
 .center{
-  width: 50%;
-  height: 50%;
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
-   margin-right: 150px;
+  height:100vh;
+  gap:20px;
+  flex-direction: row;
 }
-
+.imgpro{
+max-width:100%;
+  height:auto
+}
 <!--This is the end of content section -->
 
 
