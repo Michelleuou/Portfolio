@@ -80,8 +80,7 @@ text-decoration: underline;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  text-align: center;
-  padding-right: 500px; 
+   margin-right: 150px;
 }
 
 <!--This is the end of content section -->
