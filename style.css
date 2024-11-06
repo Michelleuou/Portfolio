@@ -107,15 +107,12 @@ text-decoration: underline;
 
 .contact{
   text-align:center;
-  background-color: #d1ecff;
-}
-.nav2{
-text-align: right;
  overflow: hidden;
   background-color: #d1ecff;
   position: static;
   top: 0; 
   width: 100%; 
 }
+
 <!--This is the end of abt section -->
 
