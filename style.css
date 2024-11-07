@@ -80,7 +80,7 @@ text-decoration: underline;
   height:100vh;
   gap:20px;
   flex-direction: row;
-  padding-top: 30px;
+  padding-top: 100px;
 }
 .imgpro{
 max-width:100%;
