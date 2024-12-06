@@ -53,10 +53,13 @@ margin-top: 90px;
 
 <!--This is the content section -->
 
+.para{
+  max-width: 1000px;
+  font-size: 30px;
+}
+
 .text{
-font-size: 30px;
 text-align:center;
-  max-width: 1000px
 
 }
 
