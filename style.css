@@ -87,14 +87,11 @@ text-decoration: underline;
   flex-direction: row;
 }
 .imgpro{
-width:95%;
-height:95%;
+width:250px;
+height:700px;
 }
 
-.imgsize{
-  width: 90%;
-  height: 90%;
-}
+
 /*This is the end of content section */
 
 
