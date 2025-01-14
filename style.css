@@ -1,4 +1,4 @@
-<!--This is the navbar section -->
+/*This is the navbar section */
 
 * {box-sizing: border-box}
 
@@ -45,13 +45,13 @@ margin-top: 90px;
 }
 
 
-<!--This is the end of navbar section -->
+/*This is the end of navbar section */
 
 
 
 
 
-<!--This is the content section -->
+/*This is the content section */
 
 .para p{
   max-width: 1000px;
@@ -91,14 +91,14 @@ text-decoration: underline;
 width:95%;
 height:95%;
 }
-<!--This is the end of content section -->
+/*This is the end of content section */
 
 
 
 
 
 
-<!--This is the abt section -->
+/*This is the abt section */
 
 #resume{
   top: 2px;
@@ -143,5 +143,5 @@ font-size:20px;
 }
 
 
-<!--This is the end of abt section -->
+/*This is the end of abt section */
 
