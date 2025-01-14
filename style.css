@@ -54,7 +54,7 @@ margin-top: 90px;
 /*This is the content section */
 
 .para{
- 
+ max-width: 1000px;
   font-size: 30px;
 }
 
@@ -93,8 +93,8 @@ height:95%;
 }
 
 .imgsize{
-  max-width: 90%;
-  max-height: 90%;
+  width: 90%;
+  height: 90%;
 }
 /*This is the end of content section */
 
