@@ -91,6 +91,11 @@ text-decoration: underline;
 width:95%;
 height:95%;
 }
+
+.imgsize{
+  max-width: 90%;
+  max-height: 90%;
+}
 /*This is the end of content section */
 
 
