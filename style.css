@@ -158,12 +158,13 @@ embed{
   padding: 16px;
   font-size: 16px;
   border: none;
+    font-family: Garamond;
 }
 
 .dropdown {
   position: relative;
   display: inline-block;
-    margin-top: 20px;
+   margin-top: -300px;
 }
 
 .dropdown-content {
