@@ -158,12 +158,12 @@ embed{
   padding: 16px;
   font-size: 16px;
   border: none;
-  margin-top: 20px;
 }
 
 .dropdown {
   position: relative;
   display: inline-block;
+    margin-top: 20px;
 }
 
 .dropdown-content {
