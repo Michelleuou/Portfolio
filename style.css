@@ -164,7 +164,7 @@ embed{
 .dropdown {
   position: relative;
   display: inline-block;
-   margin-top: -300px;
+   margin-top: 20px;
 }
 
 .dropdown-content {
