@@ -9,7 +9,7 @@
 
 .navbar a {
   float: left;
-  font-size: 50px;
+  font-size: 40px;
   color: black;
   text-align: center;
   padding: 30px 16px;
@@ -22,7 +22,7 @@
 }
 
 .subnav .subnavbtn {
-  font-size: 50px;  
+  font-size: 40px;  
   border: none;
   outline: none;
   color: black;
