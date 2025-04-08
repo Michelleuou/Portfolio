@@ -186,3 +186,8 @@ background-color: #d1ecff;
 .slides{
 background-color: #d1ecff; 
 }
+
+.button{
+border: none;
+cursor: pointer;
+}
