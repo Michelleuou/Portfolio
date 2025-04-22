@@ -175,38 +175,3 @@ embed{
 
 /*This is the end of abt section */
 
-.mouse{
-background-color: #d1ecff; 
-}
-
-.design{
-background-color: #d1ecff; 
-}
-
-.slides{
-background-color: #d1ecff; 
-}
-
-.prototype{
-background-color: #d1ecff; 
-}
-
-.video{
-background-color: #d1ecff; 
-}
-
-.website{
-background-color: #d1ecff; 
-}
-
-.quiz{
-background-color: #d1ecff; 
-}
-
-button{
-border: none;
-border-radius: 8px;
-text-align: center;
-padding: 15px 20px;
-font-family: "Lucida Console", "Courier New", monospace;
-}
